@@ -1,6 +1,6 @@
 ### Falaa pessoal, eu sou o Michael Douglas 👋
 
-- 💻 Atualmente estudando phyton e ruby
+- 💻 Atualmente estudando Ruby e Angular
 - ⚡ Fato engraçado : Meu apelido é MD
 
 <div style="display: inline_block"><br>
@@ -10,6 +10,7 @@
   <img align="center" alt="MD-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="MD-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">  
   <img align="right" alt="MD-pic" height="150" style="border-radius:50px;" src="https://www.gifcen.com/wp-content/uploads/2022/04/zoro-gif-5.gif">
+  <img align="center" alt="MD-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 </div>
 
 ##
