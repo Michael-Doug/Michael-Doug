@@ -1,6 +1,6 @@
 ### Falaa pessoal, eu sou o Michael Douglas 👋
 
-- 💻 Atualmente estudando Ruby e Angular
+- 💻 Atualmente trabalho com as linguagens Ruby e Angular
 - ⚡ Fato engraçado : Meu apelido é MD
 - Trabalho na sousmile como engenheiro de software júnior
 
