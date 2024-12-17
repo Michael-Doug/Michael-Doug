@@ -1,7 +1,6 @@
 ### Falaa pessoal, eu sou o Michael Douglas 👋
 
-- 💻 Atualmente trabalho com a linguagem Ruby e Typescript usando framework Angular
-- 🤣 Fato engraçado : Meu apelido é MD
+- 💻 Atualmente trabalho com a linguagem Ruby e Typescript
 - ⚡ Trabalho na sousmile como engenheiro de software júnior
 
 <div style="display: inline_block"><br>
