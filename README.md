@@ -1,7 +1,8 @@
-### Falaa pessoal, eu sou o Michael Douglas 👋
+### Michael Douglas 👋
 
 - 💻 Atualmente trabalho com a linguagem Ruby e Typescript
-- ⚡ Trabalho na sousmile como engenheiro de software júnior
+- ⚡ Trabalho na sousmile como engenheiro de software
+- Desenvolvo projetos pessoais que solucionam problemas com IA
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
